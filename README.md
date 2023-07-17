@@ -1,3 +1,16 @@
+## API
+
+The application uses the JSONPlaceholder API to fetch and update tasks. The API endpoint used is: https://jsonplaceholder.typicode.com/todos
+
+# Todo List
+
+This is a simple Todo List application built using React. It allows users to add, edit, and delete tasks, mark tasks as completed, and filter tasks based on their completion status.
+
+**#Hosted Link**
+https://todolist-react-pearl.vercel.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
